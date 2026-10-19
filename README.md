@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="John Marwin Ebona — from messy data to defensible decisions" width="100%" />
+  <img src="./assets/hero-v2.svg" alt="John Marwin Ebona — from messy data to defensible decisions" width="100%" />
 
   <p><strong>Data analytics · Applied machine learning · Software engineering</strong></p>
   <p>Computer Science student at T.I.P., majoring in Intelligent Agents. I turn messy data and business problems into decisions people can defend.</p>
