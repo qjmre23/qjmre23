@@ -27,29 +27,21 @@ My work crosses deployed business operations, financial risk, applied machine le
 
 ### Selected systems
 
-<table>
-  <tr><th>Project</th><th>The decision it supports</th><th>My work</th></tr>
-  <tr>
-    <td><a href="https://evidentia-ph.netlify.app/"><strong>Evidentia ↗</strong></a><br />Live product</td>
-    <td>Can we trust these figures enough to act on them?</td>
-    <td>Sole designer, developer, and analyst. Built 40+ data-quality checks, reconciliation, forecasting, scenario analysis, named sign-off, and a hash-chained audit trail.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/qjmre23/Real-Time-Stablecoin-Payout-Risk-Scoring-System"><strong>Sentinel Ledger ↗</strong></a><br />Risk-engine project</td>
-    <td>Should a payout be allowed, reviewed, or blocked?</td>
-    <td>Built scoring across 54 tokens with versioned ML models, leakage-safe validation, rollback, graph signals, and plain-language reasons.</td>
-  </tr>
-  <tr>
-    <td><a href="https://johnmarwin.app/"><strong>JOAP Hardware ERP ↗</strong></a><br />Deployed for a live business</td>
-    <td>What is in stock, what has sold, and what needs attention?</td>
-    <td>Led delivery of inventory, order, billing, accounting, and revenue-forecasting workflows. The <a href="https://github.com/qjmre23/JOAP---SOFTWARE-ENGINEERING">public JOAP supplier-management repository</a> is a separate course project.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/qjmre23/Henkel-Lock-tight-Pamana"><strong>PAMANA ↗</strong></a><br />Henkel Loctite ideathon</td>
-    <td>Can an AI-assisted repair concept make commercial sense?</td>
-    <td>Led the team, estimated build and operating costs, and owned the five-year financial model and ROI case; built a Next.js and Gemini Vision prototype.</td>
-  </tr>
-</table>
+**01 / [Evidentia](https://evidentia-ph.netlify.app/)** · live analytics product  
+*Decision:* Can we trust these figures enough to act on them?  
+*My work:* Sole designer, developer, and analyst. Built 40+ data-quality checks, reconciliation, forecasting, scenario analysis, named sign-off, and a hash-chained audit trail.
+
+**02 / [Sentinel Ledger](https://github.com/qjmre23/Real-Time-Stablecoin-Payout-Risk-Scoring-System)** · payout-risk engine  
+*Decision:* Should a payout be allowed, reviewed, or blocked?  
+*My work:* Built scoring across 54 tokens with versioned ML models, leakage-safe validation, rollback, graph signals, and plain-language reasons.
+
+**03 / [JOAP Hardware ERP](https://johnmarwin.app/)** · deployed for a live business  
+*Decision:* What is in stock, what has sold, and what needs attention?  
+*My work:* Led delivery of inventory, order, billing, accounting, and revenue-forecasting workflows. The [public JOAP supplier-management repository](https://github.com/qjmre23/JOAP---SOFTWARE-ENGINEERING) is a separate course project.
+
+**04 / [PAMANA](https://github.com/qjmre23/Henkel-Lock-tight-Pamana)** · Henkel Loctite ideathon  
+*Decision:* Can an AI-assisted repair concept make commercial sense?  
+*My work:* Led the team, estimated build and operating costs, and owned the five-year financial model and ROI case; built a Next.js and Gemini Vision prototype.
 
 ### Achievements unlocked
 
