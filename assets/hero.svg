@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">John Marwin Ebona — building software for the real world</title>
+  <desc id="desc">A dark emerald banner with circuit and orbit motifs, introducing John Marwin Ebona and his work in applied AI, mobile, and civic software.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#10241e"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3fbf83"/>
+      <stop offset="1" stop-color="#7ee3b1"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2d5a48" stroke-opacity=".22" stroke-width="1"/>
+    </pattern>
+    <clipPath id="rounded"><rect x="1" y="1" width="1198" height="328" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="330" fill="url(#background)"/>
+    <rect width="1200" height="330" fill="url(#grid)"/>
+    <circle cx="1027" cy="165" r="208" fill="none" stroke="#3fbf83" stroke-opacity=".28" stroke-width="2"/>
+    <circle cx="1027" cy="165" r="151" fill="none" stroke="#3fbf83" stroke-opacity=".4" stroke-width="2"/>
+    <circle cx="1027" cy="165" r="95" fill="none" stroke="#7ee3b1" stroke-opacity=".5" stroke-width="2"/>
+    <circle cx="1027" cy="165" r="35" fill="#3fbf83" fill-opacity=".1" stroke="#7ee3b1" stroke-width="2"/>
+    <path d="M815 164h114m97-94v59m0 71v59M900 59l56 54m143 104 60 59M835 262l118-66" fill="none" stroke="#3fbf83" stroke-opacity=".55" stroke-width="2"/>
+    <circle cx="815" cy="164" r="5" fill="#7ee3b1"/>
+    <circle cx="900" cy="59" r="5" fill="#7ee3b1"/>
+    <circle cx="1159" cy="276" r="5" fill="#7ee3b1"/>
+    <circle cx="835" cy="262" r="5" fill="#7ee3b1"/>
+    <path d="M70 66h59" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+    <text x="70" y="104" fill="#7ee3b1" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">HELLO, WORLD. I'M</text>
+    <text x="67" y="172" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="-2">JOHN MARWIN EBONA</text>
+    <text x="70" y="216" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">Building software for the real world.</text>
+    <rect x="70" y="252" width="426" height="42" rx="21" fill="#3fbf83" fill-opacity=".13" stroke="#3fbf83" stroke-opacity=".7"/>
+    <text x="90" y="279" fill="#a7f3c9" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1">APPLIED AI  •  MOBILE  •  CIVIC TECH</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="328" rx="24" fill="none" stroke="#3fbf83" stroke-opacity=".35" stroke-width="2"/>
+</svg>
