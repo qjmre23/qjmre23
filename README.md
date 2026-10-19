@@ -9,6 +9,8 @@
   <a href="https://evidentia-ph.netlify.app/">Try Evidentia</a> ·
   <a href="https://route2zero.netlify.app/">Explore Route2Zero</a> ·
   <a href="https://www.linkedin.com/in/marwin-ebona">LinkedIn</a>
+
+  <p><sub><a href="assets/hero-pixel.png">View a still version of the animated banner</a></sub></p>
 </div>
 
 ---
