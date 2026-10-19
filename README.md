@@ -1,78 +1,98 @@
 <div align="center">
-  <img src="./assets/hero-v2.svg" alt="John Marwin Ebona — from messy data to defensible decisions" width="100%" />
+  <img src="assets/hero-pixel.gif" width="100%" alt="Original pixel-art game banner: John Marwin Ebona travels through coding, business operations, banking risk, and private-equity interest scenes" />
 
-  <p><strong>Data analytics · Applied machine learning · Software engineering</strong></p>
-  <p>Computer Science student at T.I.P., majoring in Intelligent Agents. I turn messy data and business problems into decisions people can defend.</p>
+  <br />
+
+  <p><strong>Software engineering × business analysis × data &amp; risk</strong></p>
 
   <a href="https://johnmarwin.app/">Portfolio</a> ·
-  <a href="https://viscodeai.netlify.app/">VIS/CODE</a> ·
-  <a href="https://evidentia-ph.netlify.app/">Evidentia</a> ·
-  <a href="https://github.com/qjmre23?tab=repositories">Repositories</a>
+  <a href="https://evidentia-ph.netlify.app/">Try Evidentia</a> ·
+  <a href="https://route2zero.netlify.app/">Explore Route2Zero</a> ·
+  <a href="https://www.linkedin.com/in/marwin-ebona">LinkedIn</a>
 </div>
 
 ---
 
-### A few numbers behind the work
+### The short version
 
-| 20,875 | 1,522 | Top 6 |
-| :---: | :---: | :---: |
-| Records validated in one Evidentia run | Metro Manila route-direction records screened by Route2Zero | National finalist, DOST Game Development Challenge 2026 |
+I'm **John Marwin Ebona**, a Computer Science student majoring in **Intelligent Agents** at the Technological Institute of the Philippines (expected 2028). I build software and analytical systems that help people make decisions they can explain, test, and revisit.
 
-### Live products
+My work crosses deployed business operations, financial risk, applied machine learning, and public-interest tools. I'm also interested in **banking and private equity**—especially how clean data, controls, commercial research, and financial models support sound decisions. That is a career direction, not a claim of employment in those fields.
 
-| Product | The problem it tackles |
+### By the numbers
+
+| **20,875** | **50,000+** | **1,522** | **214** |
+| :---: | :---: | :---: | :---: |
+| Records validated in an Evidentia run | Wallets screened by a payout-risk engine | Metro Manila corridor records ranked by Route2Zero | Automated tests behind Evidentia |
+
+### Selected systems
+
+<table>
+  <tr><th>Project</th><th>The decision it supports</th><th>My work</th></tr>
+  <tr>
+    <td><a href="https://evidentia-ph.netlify.app/"><strong>Evidentia ↗</strong></a><br />Live product</td>
+    <td>Can we trust these figures enough to act on them?</td>
+    <td>Sole designer, developer, and analyst. Built 40+ data-quality checks, reconciliation, forecasting, scenario analysis, named sign-off, and a hash-chained audit trail.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/qjmre23/Real-Time-Stablecoin-Payout-Risk-Scoring-System"><strong>Sentinel Ledger ↗</strong></a><br />Risk-engine project</td>
+    <td>Should a payout be allowed, reviewed, or blocked?</td>
+    <td>Built scoring across 54 tokens with versioned ML models, leakage-safe validation, rollback, graph signals, and plain-language reasons.</td>
+  </tr>
+  <tr>
+    <td><a href="https://johnmarwin.app/"><strong>JOAP Hardware ERP ↗</strong></a><br />Deployed for a live business</td>
+    <td>What is in stock, what has sold, and what needs attention?</td>
+    <td>Led delivery of inventory, order, billing, accounting, and revenue-forecasting workflows. The <a href="https://github.com/qjmre23/JOAP---SOFTWARE-ENGINEERING">public JOAP supplier-management repository</a> is a separate course project.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/qjmre23/Henkel-Lock-tight-Pamana"><strong>PAMANA ↗</strong></a><br />Henkel Loctite ideathon</td>
+    <td>Can an AI-assisted repair concept make commercial sense?</td>
+    <td>Led the team, estimated build and operating costs, and owned the five-year financial model and ROI case; built a Next.js and Gemini Vision prototype.</td>
+  </tr>
+</table>
+
+### Achievements unlocked
+
+| Milestone | Role and proof |
 | :--- | :--- |
-| [**VIS/CODE ↗**](https://viscodeai.netlify.app/) | I founded VIS/CODE to turn codebases in 40+ languages into navigable architecture maps, with AI explanations tied to the code being viewed. |
-| [**Evidentia ↗**](https://evidentia-ph.netlify.app/) | I designed and built an audit-ready analytics platform with 40+ data-quality checks, reconciliation, forecasts, scenario analysis, and a hash-chained audit trail. |
+| **Top 6 national finalist** · DOST Game Development Challenge 2026 | Technical lead and code-defense speaker. |
+| **Top 54 finalist** · eGovPH Hackathon 2026 | Built an AI passport-concierge concept with five guided application flows. |
+| **Six-country market research** · [ANI](https://github.com/qjmre23/ANI-AI-Farm-to-Market-Platform) | Led research across South and Southeast Asian markets to shape a farm-to-market platform. |
+| **Climate decision support** · [Route2Zero](https://github.com/qjmre23/Route2Zero) | Led a transparent electrification shortlist and auto-generated policy briefs for the AI × City Climate Action Hackathon, University of Cambridge track. |
+| **Food-safety risk screening** · [PigmeatSafeAI](https://github.com/qjmre23/PIGMEATSAFEAI) | Deputy technical lead at Vingroup Vietnam Hackathon 2026; combined vision, weather, transport, and supplier signals into SELL / HOLD / REJECT recommendations. |
 
-### What I'm building
+### More code to explore
 
-I work across **Python, TypeScript, React, FastAPI, Flutter, and Dart**. My projects often connect a useful interface to the harder parts underneath: data pipelines, maps, offline access, explainable decisions, and real operational constraints.
+| Public repository | What to look for |
+| :--- | :--- |
+| [Route2Zero](https://github.com/qjmre23/Route2Zero) · [live demo](https://route2zero.netlify.app/) | Adjustable index for emissions, equity, grid feasibility, and operator readiness; 1,522 route-direction records. |
+| [ANI · Farm to Market](https://github.com/qjmre23/ANI-AI-Farm-to-Market-Platform) | Pilot-stage, offline field capture, produce grading, buyer coordination, and traceability. |
+| [PAMANA](https://github.com/qjmre23/Henkel-Lock-tight-Pamana) | AI-assisted repair guidance, deterministic product matching, and safety gates. |
+| [EvacuWay](https://github.com/qjmre23/EvacuWay) | Reproducible flood-evacuation routing simulation with interactive maps and equity measures. |
+| [PigmeatSafeAI](https://github.com/qjmre23/PIGMEATSAFEAI) | Mobile and backend prototype for contextual food-safety risk screening. |
+| [JOAP Supplier Management](https://github.com/qjmre23/JOAP---SOFTWARE-ENGINEERING) | Course project for procurement, reorder alerts, approvals, and forecasting. |
 
-| 🌾 Food systems | 🌀 Resilient cities | 🧰 Everyday operations |
+### Toolkit
+
+| Business & analysis | Data & risk | Engineering |
 | :--- | :--- | :--- |
-| Help move harvests to buyers and make quality workflows more traceable. | Make disaster response and transport decisions easier to explore and explain. | Give small teams clearer tools for inventory, orders, and reporting. |
+| Market research · financial modeling · cost estimation · ROI · KPI design | Python · SQL · Excel · forecasting · reconciliation · risk scoring | TypeScript · React · Next.js · FastAPI · Flutter · Docker |
+| Requirements · user journeys · presenting to judges | Pandas · scikit-learn · XGBoost · LightGBM · model validation | PostgreSQL · MongoDB · AWS · GitHub Actions · Playwright |
 
-### Featured work
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| [**ANI · Farm to Market**](https://github.com/qjmre23/ANI-AI-Farm-to-Market-Platform) | Pilot-stage platform for produce grading, offline field capture, buyer coordination, and traceability. | FastAPI · React · Flutter · YOLO |
-| [**Route2Zero**](https://github.com/qjmre23/Route2Zero) · [live](https://route2zero.netlify.app/) | Ranks potential e-jeepney corridors using climate, equity, grid, and operator-readiness factors, with assumptions visible. | Python · Geospatial data |
-| [**EvacuWay**](https://github.com/qjmre23/EvacuWay) | Reproducible Metro Manila flood-evacuation routing simulation with an interactive dashboard and equity measures. | Python · FastAPI · React · Leaflet |
-| [**SAGIP PH**](https://github.com/qjmre23/EAyudaPH) | Android-first disaster and assistance **concept** with explainable priority scoring. Uses synthetic demo data; it is not a government service. | React Native · Expo · TypeScript |
-| [**JOAP Hardware Trading**](https://github.com/qjmre23/JOAP---SOFTWARE-ENGINEERING) | Inventory, order, billing, accounting, and reporting workflows for a live hardware business. | TypeScript · React · MongoDB |
-| [**PigmeatSafeAI**](https://github.com/qjmre23/PIGMEATSAFEAI) | Prototype mobile and backend pipeline for pork-image screening and contextual risk information. | Flutter · FastAPI · YOLO |
-
-### Tools I reach for
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=3FBF83" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=54C5F8" alt="Dart" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4FAA41" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF" alt="GitHub Actions" />
-</p>
-
-### At a glance
+### GitHub activity
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=qjmre23&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3FBF83&text_color=C9D1D9&icon_color=3FBF83" alt="John Marwin's public GitHub activity statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjmre23&layout=compact&hide_border=true&bg_color=0D1117&title_color=3FBF83&text_color=C9D1D9" alt="Languages across John Marwin's public GitHub repositories" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=qjmre23&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D0B8&text_color=C9D1D9&icon_color=F2C067" alt="Public GitHub activity statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qjmre23&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D0B8&text_color=C9D1D9" alt="Languages in public repositories" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=qjmre23&hide_border=true&background=0D1117&ring=3FBF83&fire=3FBF83&currStreakLabel=3FBF83&currStreakNum=F0F6FC&sideLabels=C9D1D9&sideNums=F0F6FC&dates=8B949E&stroke=30363D" alt="GitHub contribution streak based on real activity" />
+  <img src="https://streak-stats.demolab.com?user=qjmre23&hide_border=true&background=0D1117&ring=39D0B8&fire=F2C067&currStreakLabel=39D0B8&currStreakNum=F0F6FC&sideLabels=C9D1D9&sideNums=F0F6FC&dates=8B949E&stroke=30363D" alt="GitHub contribution streak based on real activity" />
 </div>
 
-<p align="center"><sub>Third-party widgets use public activity and may lag. GitHub's contribution calendar below also includes anonymized private contributions.</sub></p>
+<p align="center"><sub>These third-party widgets reflect public activity and may lag. GitHub's contribution calendar also includes anonymized private contributions.</sub></p>
 
 ---
 
 <div align="center">
-  <strong>Open to internship and collaboration opportunities.</strong><br />
-  <a href="https://johnmarwin.app/">Portfolio and contact</a> · <a href="https://github.com/qjmre23?tab=repositories">All repositories</a>
+  <strong>Open to internships and collaboration in software, analytics, risk, and business.</strong><br />
+  <a href="https://johnmarwin.app/">See the full portfolio and get in touch</a>
 </div>
