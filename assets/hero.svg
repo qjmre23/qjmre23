@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">John Marwin Ebona — building software for the real world</title>
+  <title id="title">John Marwin Ebona — from messy data to defensible decisions</title>
   <desc id="desc">A dark emerald banner with circuit and orbit motifs, introducing John Marwin Ebona and his work in applied AI, mobile, and civic software.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -31,7 +31,7 @@
     <path d="M70 66h59" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
     <text x="70" y="104" fill="#7ee3b1" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="4">HELLO, WORLD. I'M</text>
     <text x="67" y="172" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="-2">JOHN MARWIN EBONA</text>
-    <text x="70" y="216" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">Building software for the real world.</text>
+    <text x="70" y="216" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">From messy data to defensible decisions.</text>
     <rect x="70" y="252" width="426" height="42" rx="21" fill="#3fbf83" fill-opacity=".13" stroke="#3fbf83" stroke-opacity=".7"/>
     <text x="90" y="279" fill="#a7f3c9" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1">APPLIED AI  •  MOBILE  •  CIVIC TECH</text>
   </g>

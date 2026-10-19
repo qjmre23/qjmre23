@@ -1,14 +1,29 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="John Marwin Ebona — building software for the real world" width="100%" />
+  <img src="./assets/hero.svg" alt="John Marwin Ebona — from messy data to defensible decisions" width="100%" />
 
-  <p><strong>Full-stack systems · Applied AI · Mobile apps · Civic technology</strong></p>
-  <p>Hi, I'm John Marwin. I turn messy, real-world workflows into software people can actually use.</p>
+  <p><strong>Data analytics · Applied machine learning · Software engineering</strong></p>
+  <p>Computer Science student at T.I.P., majoring in Intelligent Agents. I turn messy data and business problems into decisions people can defend.</p>
 
-  <a href="https://github.com/qjmre23?tab=repositories">Explore my work</a> ·
-  <a href="https://qjmre23.github.io/EAyudaPH/">See a live walkthrough</a>
+  <a href="https://johnmarwin.app/">Portfolio</a> ·
+  <a href="https://viscodeai.netlify.app/">VIS/CODE</a> ·
+  <a href="https://evidentia-ph.netlify.app/">Evidentia</a> ·
+  <a href="https://github.com/qjmre23?tab=repositories">Repositories</a>
 </div>
 
 ---
+
+### A few numbers behind the work
+
+| 20,875 | 1,522 | Top 6 |
+| :---: | :---: | :---: |
+| Records validated in one Evidentia run | Metro Manila route-direction records screened by Route2Zero | National finalist, DOST Game Development Challenge 2026 |
+
+### Live products
+
+| Product | The problem it tackles |
+| :--- | :--- |
+| [**VIS/CODE ↗**](https://viscodeai.netlify.app/) | I founded VIS/CODE to turn codebases in 40+ languages into navigable architecture maps, with AI explanations tied to the code being viewed. |
+| [**Evidentia ↗**](https://evidentia-ph.netlify.app/) | I designed and built an audit-ready analytics platform with 40+ data-quality checks, reconciliation, forecasts, scenario analysis, and a hash-chained audit trail. |
 
 ### What I'm building
 
@@ -23,10 +38,10 @@ I work across **Python, TypeScript, React, FastAPI, Flutter, and Dart**. My proj
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
 | [**ANI · Farm to Market**](https://github.com/qjmre23/ANI-AI-Farm-to-Market-Platform) | Pilot-stage platform for produce grading, offline field capture, buyer coordination, and traceability. | FastAPI · React · Flutter · YOLO |
-| [**Route2Zero**](https://github.com/qjmre23/Route2Zero) | Ranks potential e-jeepney corridors using climate, equity, grid, and operator-readiness factors, with assumptions visible. | Python · Geospatial data |
+| [**Route2Zero**](https://github.com/qjmre23/Route2Zero) · [live](https://route2zero.netlify.app/) | Ranks potential e-jeepney corridors using climate, equity, grid, and operator-readiness factors, with assumptions visible. | Python · Geospatial data |
 | [**EvacuWay**](https://github.com/qjmre23/EvacuWay) | Reproducible Metro Manila flood-evacuation routing simulation with an interactive dashboard and equity measures. | Python · FastAPI · React · Leaflet |
-| [**SAGIP PH**](https://github.com/qjmre23/EAyudaPH) | Android-first disaster and assistance **concept** with explainable priority scoring and a [web walkthrough](https://qjmre23.github.io/EAyudaPH/). Uses synthetic demo data; it is not a government service. | React Native · Expo · TypeScript |
-| [**JOAP Hardware Trading**](https://github.com/qjmre23/JOAP---SOFTWARE-ENGINEERING) | Inventory, order, and business-management workflows for a hardware store. | TypeScript · React · MongoDB |
+| [**SAGIP PH**](https://github.com/qjmre23/EAyudaPH) | Android-first disaster and assistance **concept** with explainable priority scoring. Uses synthetic demo data; it is not a government service. | React Native · Expo · TypeScript |
+| [**JOAP Hardware Trading**](https://github.com/qjmre23/JOAP---SOFTWARE-ENGINEERING) | Inventory, order, billing, accounting, and reporting workflows for a live hardware business. | TypeScript · React · MongoDB |
 | [**PigmeatSafeAI**](https://github.com/qjmre23/PIGMEATSAFEAI) | Prototype mobile and backend pipeline for pork-image screening and contextual risk information. | Flutter · FastAPI · YOLO |
 
 ### Tools I reach for
@@ -39,6 +54,8 @@ I work across **Python, TypeScript, React, FastAPI, Flutter, and Dart**. My proj
   <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=54C5F8" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=54C5F8" alt="Dart" />
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4FAA41" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF" alt="GitHub Actions" />
 </p>
 
@@ -56,6 +73,6 @@ I work across **Python, TypeScript, React, FastAPI, Flutter, and Dart**. My proj
 ---
 
 <div align="center">
-  <strong>Interested in building useful software together?</strong><br />
-  <a href="https://github.com/qjmre23?tab=repositories">Browse my projects and reach out through a relevant repository</a>
+  <strong>Open to internship and collaboration opportunities.</strong><br />
+  <a href="https://johnmarwin.app/">Portfolio and contact</a> · <a href="https://github.com/qjmre23?tab=repositories">All repositories</a>
 </div>
