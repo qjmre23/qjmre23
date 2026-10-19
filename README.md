@@ -68,7 +68,7 @@ I work across **Python, TypeScript, React, FastAPI, Flutter, and Dart**. My proj
   <img src="https://streak-stats.demolab.com?user=qjmre23&hide_border=true&background=0D1117&ring=3FBF83&fire=3FBF83&currStreakLabel=3FBF83&currStreakNum=F0F6FC&sideLabels=C9D1D9&sideNums=F0F6FC&dates=8B949E&stroke=30363D" alt="GitHub contribution streak based on real activity" />
 </div>
 
-<p align="center"><sub>These images are generated from public GitHub activity and may refresh at different times. The contribution calendar below is GitHub's own record.</sub></p>
+<p align="center"><sub>Third-party widgets use public activity and may lag. GitHub's contribution calendar below also includes anonymized private contributions.</sub></p>
 
 ---
 
